@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.3+commit.8d00100c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "minustotal",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "settotal",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "totalsuppkl",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/mgsm.sol": "moneroGoldscam"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/mgsm.sol": {
+			"keccak256": "0xcdcabc807e5b676ce2e0868f80aa64befb96067c68d7bc11fd173df707f0ebf4",
+			"urls": [
+				"bzz-raw://82e62412169b1ec7ac0a6e93a017fc73464033634504977565e92f66649e25a7",
+				"dweb:/ipfs/QmNwsLCh65WW6oiA7NGXL57xrfkJa3oBr35pVD5hR8K2EP"
+			]
+		}
+	},
+	"version": 1
+}

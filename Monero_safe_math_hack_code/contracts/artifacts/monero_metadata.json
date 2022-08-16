@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.3+commit.8d00100c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/mgsm.sol": "monero"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/mgsm.sol": {
+			"keccak256": "0x53d22b5e47a0a0d1bea5cc6aa869452ece2f341c1c8bb6b6cad62bf6d3472074",
+			"urls": [
+				"bzz-raw://61daeb7e61fdea9175dd3b5a048fa9ddc00461000c8425a4b365d287d98e2e5e",
+				"dweb:/ipfs/QmcU66B1wyPHy7Bz8AaR5gMQ9N37cNUJwibiRyfYvhmtpq"
+			]
+		}
+	},
+	"version": 1
+}

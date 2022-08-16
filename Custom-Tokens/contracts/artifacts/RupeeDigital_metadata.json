@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.3+commit.8d00100c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "invoker",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/RupeeDigital.sol": "RupeeDigital"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/RupeeDigital.sol": {
+			"keccak256": "0xb1394a998ab505e4d3e3faf6aede18f02a996530af6a9b3e6193179fddbe2d69",
+			"urls": [
+				"bzz-raw://27f2af0f87f96eb4a4a4e0572140d83b2e7f2ba0db25d55e073a537a72503769",
+				"dweb:/ipfs/QmReBR8Q6kcPDNYhxEDfU7iL1xZypVnwbdKxwq1aZWgEKR"
+			]
+		}
+	},
+	"version": 1
+}

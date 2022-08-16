@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.3+commit.8d00100c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "AddMemory",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "AddStorage",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "checkValueInethe",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "toPay",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "Paid",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/sol6test.sol": "Instructor"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/sol6test.sol": {
+			"keccak256": "0x141633ae67e55703482f87468f483ad9f6ceece390a04dc63e2900b2c6587a65",
+			"urls": [
+				"bzz-raw://d0739027d1eaf7871001715b81cf79b840c2dc883cfc208e6bb2d59505da59ef",
+				"dweb:/ipfs/QmZP9X2pKuYk2rMjY1fHZB6Pk3jPq89tdBooj3VipFZecY"
+			]
+		}
+	},
+	"version": 1
+}

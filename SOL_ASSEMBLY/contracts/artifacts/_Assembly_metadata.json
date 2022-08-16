@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.3+commit.8d00100c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"name": "display",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "assemblyLoop",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "solidityLoop",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ASSEM.sol": "_Assembly"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ASSEM.sol": {
+			"keccak256": "0xe1e43cebf4db83d82efd2b4eaf6e6e8aa8fc1dfde1a9e9c7b155d1f66f57a9f7",
+			"urls": [
+				"bzz-raw://06644d1701ea6ffa907b88bfaf7a5c542ed0a6329a869cf7e77008459f1c5d52",
+				"dweb:/ipfs/QmUV8Lze2ZGprLTSBDESUMa1U2E6X2nae5h4N1KqhZoQVR"
+			]
+		}
+	},
+	"version": 1
+}
